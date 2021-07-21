@@ -3,6 +3,9 @@ background: rgb(2,0,36);
 background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(100,187,226,1) 35%, rgba(0,52,255,1) 100%);
 }
 
+a:hover{
+	font-weight: bold;
+}
 
 a { 
 color: black; 
