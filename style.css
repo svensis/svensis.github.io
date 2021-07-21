@@ -17,8 +17,8 @@ a​:visited { color: black; }
   position: absolute;
   top: 50%;
   left: 50%;
-	width:1200px;
-	height:600px;
+	width:60%;
+	height:70%;
 background: rgb(130,126,126);
 background: linear-gradient(90deg, rgba(130,126,126,1) 0%, rgba(255,254,254,1) 30%, rgba(255,255,255,1) 100%);
 	border-radius:30px;
