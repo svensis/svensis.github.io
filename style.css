@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+
 body{
 background: rgb(2,0,36);
 background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(100,187,226,1) 35%, rgba(0,52,255,1) 100%);
+font-family: 'Oswald', sans-serif;
 }
 
 a:hover{
